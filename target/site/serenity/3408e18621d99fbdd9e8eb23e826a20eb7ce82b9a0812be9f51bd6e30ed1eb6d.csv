@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Roxor test","Validate jackpotId = Roxor Progressives","SUCCESS","2023-06-14T14:40:15.397+01:00[Europe/London]","0.0","6.66"
+"Roxor test","Verify pots 4th id has name = play-classic-video-poker","SUCCESS","2023-06-14T14:40:22.327+01:00[Europe/London]","0.0","0.28"
+"Roxor test","Verify When currency is GBP then the response contains correct currencies in GBP","SUCCESS","2023-06-14T14:40:22.616+01:00[Europe/London]","0.0","0.31"
